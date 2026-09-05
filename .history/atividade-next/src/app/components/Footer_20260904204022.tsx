@@ -1,0 +1,16 @@
+import Link from "next/link";
+
+export default function Footer()
+{
+    return(
+        <footer>
+            <article>
+
+            </article>
+
+            <nav>
+                
+            </nav>
+        </footer>
+    );
+}
